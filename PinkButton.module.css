@@ -1,0 +1,7 @@
+.PinkButton{
+    border-style: 2px pink solid;
+    height: 40px;
+    border-width: 2px;
+    background-color: pink;
+    margin-left: 10px;
+}
